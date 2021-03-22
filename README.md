@@ -8,8 +8,6 @@ Data Skillset:
 - Google Cloud Platform (AI/ML, Computer vision, Hadoop, Spark)
 - SAS (advanced %macros, proc (datasets, contents, sql, etc.), data step)
 - SQL (basic to advanced functions - join, group by, cursors, etc.)
-- VBA (userForms, regex-like searching with Wildcards, etc.)
-
 
 
 <!--
