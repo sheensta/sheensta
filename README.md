@@ -4,7 +4,7 @@ I'm a Data Scientist with an interdisciplinary background in biomedical science,
 
 Data Skillset: 
 - Python (tensorflow/keras, scikit-learn, pandas, numpy, matplotlib, seaborn)
-- R (Shiny, caret, ggplot2, MICE, dplyr, nlme)
+- R (Shiny, caret, ggplot2, dplyr, data.table, MICE, lme4/nlme)
 - Google Cloud Platform (AI/ML, Computer vision, Hadoop, Spark)
 - SAS (advanced %macros, proc (datasets, contents, sql, etc.), data step)
 - SQL (basic to advanced functions - join, group by, cursors, etc.)
